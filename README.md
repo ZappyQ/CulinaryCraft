@@ -18,6 +18,7 @@ Ever wanted to run your own restaurant in Minecraft? Now you can! This mod adds 
 | 🥫 **Ketchup** | Squeeze bottle with limited uses |
 | 🥫 **Mustard** | Squeeze bottle with limited uses |
 | 🧂 **Salt** | Mined from underground Salt Ore |
+| 🥣 **Tomato Soup** | Can be crafted using water, stock, tomatoes and a knife |
 
 ---
 
@@ -67,3 +68,5 @@ I'd love to hear your suggestions and will be happy to implement the best ones i
 ---
 
 *Made with ❤️ by ZappyQ*
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z51UE2EQ)
